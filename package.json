@@ -1,0 +1,22 @@
+{
+  "name": "@hhhhhbtx/arcade-core",
+  "version": "1.0.1",
+  "description": "A reusable JavaScript library for the 2048 game",
+  "type": "module",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "2048",
+    "arcade",
+    "game",
+    "javascript"
+  ],
+  "author": "Hang Liu",
+  "license": "ISC",
+  "dependencies": {
+    "@hhhhhbtx/arcade-core": "^1.0.1"
+  }
+}
